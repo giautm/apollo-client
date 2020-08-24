@@ -1,3 +1,10 @@
+## Apollo Client 3.1.4 (not yet released)
+
+## Bug Fixes
+
+- Check structural equality of diff results in `QueryInfo#setDiff` instead of reference equality. <br/>
+  [@benjamn](https://github.com/benjamn) in [#6891](https://github.com/apollographql/apollo-client/pull/6891)
+
 ## Apollo Client 3.1.3
 
 ## Bug Fixes
